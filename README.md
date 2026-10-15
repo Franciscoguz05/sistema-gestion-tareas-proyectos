@@ -72,7 +72,7 @@ Próximo paso técnico: confirmar el stack tecnológico, crear la estructura ini
 
 11. Datos que deben completarse antes de entregar:
 
-- Enlace real del repositorio: [pegar aquí la URL de GitHub].
+- Enlace real del repositorio: [https://github.com/Franciscoguz05/sistema-gestion-tareas-proyectos].
 - Nombre y fecha de la versión publicada, si se crea una etiqueta o reléase.
 - Captura del README.md dentro de GitHub.
 - Captura de los cuatro Issues creados en el repositorio.
