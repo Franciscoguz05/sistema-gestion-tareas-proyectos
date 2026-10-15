@@ -7,7 +7,7 @@ El Sistema de Gestión de Tareas y Proyectos es una propuesta de aplicación dig
 2. Problema que busca resolver:
 Cuando las tareas se administran únicamente por mensajes, notas sueltas o conversaciones, puede ser difícil saber quién debe realizar cada actividad, cuál es su fecha límite y qué queda pendiente. El sistema propone reunir esa información en un espacio organizado y fácil de consultar.
 3. Objetivo:
-Diseñar una base técnica para una aplicación que permita registrar proyectos y tareas, asignar responsables, definir prioridades y dar seguimiento al progreso.
+Diseñar una  base técnica para una aplicación que permita registrar proyectos y tareas, asignar responsables, definir prioridades y dar seguimiento al progreso.
 4. Funcionalidades principales previstas:
 - Registrar y consultar proyectos.
 - Crear tareas asociadas a un proyecto.
